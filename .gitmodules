@@ -1,0 +1,4 @@
+[submodule "MEaSURES/annual_greenland_outlet_glacier_terminus_positions_from_SAR_mosaics_v1"]
+	path = MEaSURES/annual_greenland_outlet_glacier_terminus_positions_from_SAR_mosaics_v1
+	url = https://github.com/cryo-data/moon_2008_NSIDC_0642
+	datalad-id = 1242ba12-90ae-4ac2-ac17-5a4b04f15b3c
