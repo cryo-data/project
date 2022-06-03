@@ -6,3 +6,7 @@
 	path = BedMachine_Greenland
 	url = https://github.com/cryo-data/BedMachine_Greenland
 	datalad-id = 5cd956f5-8b38-4d4d-a89b-a94839af2d2f
+[submodule "CALFIN_1972-2019"]
+	path = CALFIN_1972-2019
+	url = https://github.com/cryo-data/Cheng_2020_CALFIN_1972-2019_DRYAD
+	datalad-id = f98ca6ad-707c-4b41-ad34-000abac25c28
